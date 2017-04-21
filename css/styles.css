@@ -3,7 +3,8 @@ span {
 }
 
 img {
-width: 100%;
+  width: 100%;
+  float: left;
 }
 
 h1 {
